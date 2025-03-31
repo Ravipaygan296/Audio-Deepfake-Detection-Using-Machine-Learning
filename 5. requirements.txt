@@ -1,0 +1,10 @@
+# Required dependencies
+
+tensorflow
+numpy
+librosa
+scikit-learn
+requests
+pickle
+matplotlib
+pandas
